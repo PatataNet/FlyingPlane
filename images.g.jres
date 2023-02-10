@@ -1,0 +1,17 @@
+{
+    "": {
+        "data": "hwQQABAAAAAAACAiAAAAAAAAACICAAAAAAAAIAIAAAAAAAAgAgAAAAAAICACAgAAAAAgIiICAAAAACAgAgIAAAAAICACAgAAAAAgkAICAAAAACCQAQIAAAAAIBARAgAAAAAgICECAAAAACACAAIAAAAAIAAAAgAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Jugador"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAIAQEQgAAAAAgJABCAAAAACAmIgIAAAAAICACAgAAAAAgIAICAAAAACAgAgIAAAAAICACAgAAAAAgIAYCAAAAACAiAgIAAAAAICAiAgAAAAAAIAIAAAAAAAAiAgAAAAAAICIAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Enemigo"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
